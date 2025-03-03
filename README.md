@@ -44,10 +44,10 @@ This repository contains the code and documentation for **Home Assignment 2**. T
 
 ## **Files in This Repository**
 
-- `first_question_answer.pdf` - **Written answers for Question 1 (Cloud Computing for Deep Learning)**.
-- `Question 2: Convolution Operations.ipynb` - **Code for convolution with different strides & padding**.
-- `Question 3: CNN Feature Extraction.ipynb` - **Edge detection using Sobel filters & pooling operations**.
-- `Question 4: Implementing and Comparing CNN.ipynb` - **Implementation of AlexNet & ResNet architectures**.
+- `Home_Assignment-2_Ques-1` - **Written answers for Question 1 (Cloud Computing for Deep Learning)**.
+- `Ques2_Convolution.ipynb` - **Code for convolution with different strides & padding**.
+- `Ques3_CNN_Feature_Extraction.ipynb` - **Edge detection using Sobel filters & pooling operations**.
+- `Ques4_Implementing_and_Comparing_CNN_Architectures.ipynb` - **Implementation of AlexNet & ResNet architectures**.
 - `README.md` - **This file**.
 
 ## How to Run
